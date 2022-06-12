@@ -1,5 +1,5 @@
 # eq_safety_confirmation  
-関東地方で地震が起きた時にSlack→Googleフォームで安否確認をする  
+関東地方で地震が起きた時にGoogleフォームのURLをSlackで送信し、安否確認をする  
   
 # DEMO  
 ![image](https://user-images.githubusercontent.com/98931080/173096407-4fc8484a-2884-49bd-b3a3-37d7f15cb520.png)  
